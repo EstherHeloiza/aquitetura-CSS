@@ -1,0 +1,24 @@
+.fabricacoes {
+    background: #e5e5e5;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+@media screen and (min-width: 0) {
+    .fabricacoes {
+        padding: 5rem 0 0 1rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .fabricacoes {
+        padding: 5rem 0 0 2.5rem;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .fabricacoes {
+        padding: 5rem 0 0 5rem;
+    }
+}

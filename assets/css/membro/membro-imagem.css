@@ -1,0 +1,27 @@
+.membro__imagem {
+    background: red;
+    background-size: cover;
+    height: 300px;
+    background-position: center;
+    width: 300px;
+    background-repeat: no-repeat;
+    border-radius: 100%;
+}
+.membro__imagem--lulu {
+    background-image: url('../../img/comunidade/lulu.jpg');
+  
+
+}
+
+.membro__imagem--almodovar {
+    background-image: url('../../img/comunidade/almodovar.jpg');
+    
+
+}
+
+.membro__imagem--mico {
+    background-image: url('../../img/comunidade/mico.jpg');
+    
+}
+
+ 
